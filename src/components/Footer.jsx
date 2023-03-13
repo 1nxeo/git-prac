@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-  return <div>Footer</div>;
+  return <div>깃 어려워..</div>;
 }
 
 export default Footer;
