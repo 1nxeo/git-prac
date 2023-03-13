@@ -1,7 +1,11 @@
 import React from "react";
 
 function Header() {
-  return <div>Header</div>;
+  return (
+    <>
+    <header>헤더입니다만</header>
+    </>
+  )
 }
 
 export default Header;
